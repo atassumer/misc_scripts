@@ -1,5 +1,8 @@
 #!/usr/bin/env perl
 
+# Script used to listen to Rockola.fm streaming without neeed of opening
+# a web-browser and useful to use it in headless systems
+
 use warnings;
 use strict;
 use WWW::Mechanize;
